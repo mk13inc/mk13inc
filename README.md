@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Сертификаты
+
+| Курс | RUS | ENG |
+| :--- | :-- | :-- |
+| Инструменты анализа данных | [PDF](certificates/dat_certificate_rus_kovalev_2024-9535-007.pdf) | [PDF](certificates/dat_certificate_eng_kovalev_2024-9535-007.pdf) |
