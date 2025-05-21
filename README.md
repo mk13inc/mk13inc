@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 | Курс | RUS | ENG |
 | :--- | -- | -- |
-| Инструменты анализа данных | [PDF](certificates/dat_certificate_rus_kovalev_2024-9535-007.pdf) | [PDF](certificates/dat_certificate_eng_kovalev_2024-9535-007.pdf) |
+| Инструменты анализа данных | [PDF](certificates/dat_certificate_ru_kovalev_2024-9535-007.pdf) | [PDF](certificates/dat_certificate_en_kovalev_2024-9535-007.pdf) |
 | Специалист по Data Science | [PDF](https://github.com/mk13inc/mk13inc/blob/main/certificates/ds_diploma_ru_kovalev_2025-9748-001.pdf) | [PDF](https://github.com/mk13inc/mk13inc/blob/main/certificates/ds_diploma_en_kovalev_2025-9748-001.pdf) |
