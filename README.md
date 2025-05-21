@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 ## Сертификаты
 
 | Курс | RUS | ENG |
-| :--- | :-- | :-- |
+| :--- | -- | -- |
 | Инструменты анализа данных | [PDF](certificates/dat_certificate_rus_kovalev_2024-9535-007.pdf) | [PDF](certificates/dat_certificate_eng_kovalev_2024-9535-007.pdf) |
+| Специалист по Data Science | pending... | pending... |
